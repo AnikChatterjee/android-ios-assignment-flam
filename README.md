@@ -2,10 +2,9 @@
 # FLAM Assignment – Android & iOS
 
 ## Submitted By
-**Name:** [Anik Chatterjee]  
-**College ID:** [Your College ID]  
-**Course:** Mobile Application Development  
-**Submission:** GitHub Link / Zip File  
+**Name:** Anik Chatterjee  
+**College ID:** EE23M303 
+**College Name:** IIT Tirupati
 
 ---
 
