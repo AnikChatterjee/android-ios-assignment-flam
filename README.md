@@ -24,19 +24,20 @@ I have selected:
 ---
 
 ## Folder Structure
+
+```
 ├── AndroidAssignment/
-│ ├── NQueensSolver.kt
-│ ├── DependencyCycleChecker.kt
-│ ├── WeatherTrackSimulation.kt
+│   ├── NQueensSolver.kt
+│   ├── DependencyCycleChecker.kt
+│   ├── WeatherTrackSimulation.kt
 │
 ├── iOSAssignment/
-│ ├── Challenge1_MusicPlayer.swift
-│ ├── Challenge3_SocialFeed.swift
+│   ├── Challenge1_MusicPlayer.swift
+│   ├── Challenge3_SocialFeed.swift
 │
 ├── README.md
+```
 
-
----
 
 ##  Highlights
 
