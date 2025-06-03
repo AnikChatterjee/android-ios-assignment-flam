@@ -8,9 +8,9 @@
 
 ---
 
-## 📱 About This Assignment
+## About This Assignment
 
-This repository contains my completed solutions for the FLAM assignment, where we were asked to choose and implement two challenges each from **Android** and **iOS** categories.
+This repository contains my completed solutions for the FLAM assignment, where we were asked to choose and implement two challenges each from the **Android** and **iOS** categories.
 
 I have selected:
 
